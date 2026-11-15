@@ -540,7 +540,7 @@ button:focus-visible {
   right: 1%;
   width: 52px;
   height: 1px;
-  background: var(--color-accent-violet);
+  background: var(--color-accent-red);
   content: "";
 }
 .intro-art {
