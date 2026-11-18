@@ -1,5 +1,17 @@
 [
   {
+    "name": "VOXX CITY",
+    "image": "/projects/voxxcity.gif",
+    "status": "ĐÃ ĐÓNG CỬA",
+    "description": "Dự án máy chủ FiveM GTA V đã đóng cửa."
+  },
+  {
+    "name": "PANDA CITY",
+    "image": "/projects/pandacity.gif",
+    "status": "ĐÃ ĐÓNG CỬA",
+    "description": "Dự án máy chủ FiveM GTA V đã đóng cửa."
+  },  
+  {
     "name": "EMPIRE ROLEPLAY",
     "image": "/projects/lgprm2.gif",
     "status": "ĐÃ ĐÓNG CỬA",
@@ -9,19 +21,19 @@
     "name": "MEOW TOWN",
     "image": "/projects/lgmeo.gif",
     "status": "ĐÃ ĐÓNG CỬA",
-    "description": "Dự án máy chủ FiveM GTA V chuẩn bị mở cửa."
+    "description": "Dự án máy chủ FiveM GTA V đã đóng cửa."
   },
   {
     "name": "SAVIOR CITY",
     "image": "/projects/lgscity.gif",
     "status": "ĐÃ ĐÓNG CỬA",
-    "description": "Dự án máy chủ FiveM GTA V chuẩn bị mở cửa."
+    "description": "Dự án máy chủ FiveM GTA V đã đóng cửa."
   },
   {
     "name": "ZOOZOO TOWN",
     "image": "/projects/lgzoozoo.gif",
-    "status": "CHUẨN BỊ MỞ CỬA",
-    "description": "Dự án máy chủ FiveM GTA V chuẩn bị mở cửa.",
+    "status": "ĐÃ ĐÓNG CỬA",
+    "description": "Dự án máy chủ FiveM GTA V đã đóng cửa.",
     "discord": "https://discord.gg/K8cPgFWHxP"
   }
 ]
